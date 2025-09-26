@@ -1,0 +1,1 @@
+# SberAuto ETL Plugin
