@@ -14,7 +14,7 @@
 - **Аналитика**: Сравнение исторических и инкрементальных данных
 
 ## 📁 Структура проекта
-- `sberauto_etl_pipeline.ipynb` - Анализ данных в Google Colab (16.7 млн записей)
+- [**sberauto_etl_pipeline.ipynb**](https://colab.research.google.com/drive/14G_MGvUmWrQUngGfPreojiGg_KqKSgzY?usp=sharing) - Анализ данных в Google Colab (16.7 млн записей)
 - `airflow_files/` - Код production ETL-пайплайна
 - `sberauto_etl_report.pdf` - Финальный аналитический отчет
 
